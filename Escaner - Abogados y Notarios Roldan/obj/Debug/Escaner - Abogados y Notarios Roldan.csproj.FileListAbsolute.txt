@@ -1,0 +1,23 @@
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Escaner - Abogados y Notarios Roldan.exe.config
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Escaner - Abogados y Notarios Roldan.exe
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Escaner - Abogados y Notarios Roldan.pdb
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\MySql.Data.dll
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\MySql.Data.xml
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner___Abogados_y_Notarios_Roldan.Escaneo.resources
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner___Abogados_y_Notarios_Roldan.Form1.resources
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner___Abogados_y_Notarios_Roldan.Guardar.resources
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner___Abogados_y_Notarios_Roldan.Properties.Resources.resources
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.csproj.GenerateResource.Cache
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.exe
+C:\Users\AxelAlejandro\documents\visual studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.pdb
+C:\Users\AxelAlejandro\Documents\Visual Studio 2015\Projects\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.csprojResolveAssemblyReference.cache
+E:\Proyectos\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\bin\Debug\Escaner - Abogados y Notarios Roldan.exe.config
+E:\Proyectos\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.exe
+E:\Proyectos\Escaner - Abogados y Notarios Roldan\Escaner - Abogados y Notarios Roldan\obj\Debug\Escaner - Abogados y Notarios Roldan.pdb
